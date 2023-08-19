@@ -3,7 +3,7 @@
 	"name": "Codename",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "A plugin to solve the hardest problem - naming thing.",
+	"description": "A plugin to solve the hardest problem - naming things.",
 	"author": "dstack",
 	"authorUrl": "https://github.com/dstack",
 	"isDesktopOnly": false
