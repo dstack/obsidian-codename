@@ -3,8 +3,6 @@ import { Wordlist } from './src/WordList';
 import ADJECTIVES_LIST from './data/wordlists/adj.json';
 import NOUNS_LIST from './data/wordlists/noun.json';
 
-// Remember to rename these classes and interfaces!
-
 interface CodenameSettings {
 	useAlliteration: boolean;
 }
